@@ -1,0 +1,13 @@
+{
+  "name": "base44-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix base44 run dev",
+    "server": "npm --prefix base44 run server",
+    "dev:all": "npm --prefix base44 run dev:all",
+    "start": "npm --prefix base44 run start",
+    "build": "npm --prefix base44 run build",
+    "preview": "npm --prefix base44 run preview"
+  }
+}
